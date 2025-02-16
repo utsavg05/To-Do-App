@@ -166,4 +166,7 @@ ul li span:hover{
         font-size: 16px;
         line-height: 25px;
     }
+    .row{
+        padding-left: 10px;
+    }
 }
