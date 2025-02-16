@@ -171,4 +171,7 @@ ul li span:hover{
         padding-left: 10px;
         padding-right: 13px;
     }
+    button{
+    margin-right: 24px;
+    }
 }
